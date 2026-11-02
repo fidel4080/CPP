@@ -1,0 +1,27 @@
+
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Output directory (compiled programs)
+output/
+
+# Debugging files
+*.pdb
+*.ilk
+*.idb
+
+# VS Code workspace settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
