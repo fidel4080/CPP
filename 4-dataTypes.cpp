@@ -13,4 +13,6 @@ int main()
     cout << "Student Score: " << score << "\n";
     cout << "Student Grade: " << grade << "\n";
     cout << "Student Passed: " << passedExam << "\n";
+
+    return 0;
 }
