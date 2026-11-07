@@ -9,6 +9,8 @@ int main()
     char grade = 'A';
     bool passedExam = true;
 
+    cout << boolalpha; // enable printing "true"/"false"
+
     cout << "Student ID: " << studentId << "\n";
     cout << "Student Score: " << score << "\n";
     cout << "Student Grade: " << grade << "\n";
